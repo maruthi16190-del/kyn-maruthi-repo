@@ -2,7 +2,7 @@ variable "resource_group_name" {
   description = "The name of the resource group"
   type        = string #map list of string
   #in string variable we can define only one single value
-  default = "rg-gopal"
+  default = "rg-maruthi"
 }
 
 variable "resource_group_location" {
